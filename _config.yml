@@ -1,13 +1,13 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "moigae"
+  subtitle:     "moigate 모임"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
   company:      Incorporated
-  url:          http://sendtoinc.com/
+  url:          https:/moigae.github.io
   facebook:     sendtoinc
   twitter:      sendtoinc
   gplus:        '101183822199340201470'
