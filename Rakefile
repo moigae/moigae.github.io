@@ -1,3 +1,4 @@
+rake site:publish
 require "rubygems"
 require "tmpdir"
 
